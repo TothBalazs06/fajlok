@@ -1,0 +1,2 @@
+kerdes;Va;Vb;Vc;Vd;Hv
+Melyik az a fájlformátum amely lehetővé teszi a szöveges dokumentumok formázását és megjelenítését?;PDF;TXT;DOCX;HTML;d
