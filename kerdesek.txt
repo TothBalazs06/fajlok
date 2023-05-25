@@ -2,3 +2,8 @@ kerdes;Va;Vb;Vc;Vd;Hv
 Melyik az a fájlformátum amely lehetővé teszi a szöveges dokumentumok formázását és megjelenítését?;PDF;TXT;DOCX;HTML;d
 Melyik volt az első programozási nyelv?;Python;Java;Assembly;C#;c
 Melyik NEM Linux distribúció?;Manjaro;FreeBSD;Linux Mint;Ubuntu;b
+A SSD-ékben található mágnes.;Igaz;Hamis;Nem tudom;-;b
+Hány adathordozóra van szükség a RAID 01 használához?;2;8;6;4;d
+Hány RAID szint létezik (Wikipédia alapján)?;8;4;9;10;d
+Melyik processzor foglalat jellemző az AMD-re?;PGA;LGA;ANY;SLO;a
+Hány darab XBOX videójátékgép létezik?;1;5;4;2;c
