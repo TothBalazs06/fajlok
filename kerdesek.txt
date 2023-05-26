@@ -7,4 +7,3 @@ Hány adathordozóra van szükség a RAID 01 használához?;2;8;6;4;d
 Hány RAID szint létezik (Wikipédia alapján)?;8;4;9;10;d
 Melyik processzor foglalat jellemző az AMD-re?;PGA;LGA;ANY;SLO;a
 Hány darab XBOX videójátékgép létezik?;1;5;4;2;c
--;-;-;-;-;-;
