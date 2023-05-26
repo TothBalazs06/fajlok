@@ -8,3 +8,10 @@ Hány RAID szint létezik (Wikipédia alapján)?;8;4;9;10;d
 Melyik processzor foglalat jellemző az AMD-re?;PGA;LGA;ANY;SLO;a
 Hány darab XBOX videójátékgép létezik?;1;5;4;2;c
 Mennyi memória szükségés a Windows 10 futtatásához?;1GB;8GB;4GB;512MB;c
+Melyik hálózati protokoll felelős a weboldalak biztonságos átviteléért?;HTTP;FTP;TCP;HTTPS;d
+Melyik operációs rendszer nyílt forráskódú?;Windows;macOS;Linux;Android;c
+Melyik protokoll használatos a fájlok másolására a hálózaton keresztül?;FTP;HTTP;TCP;IP;a
+A RAM a számítógépben található tárhelyet rövidíti a ROM pedig a meóriát.;Igaz;Hamis;Nem tudom;-;b
+A legtöbb telefon iOS rendszert használ.;Hamis;Igaz;Nem tudom;-;b
+A képen egy UTF kábel látható.;Igaz;Hamis;Nem tudom;-;b
+-;-;-;-;-
