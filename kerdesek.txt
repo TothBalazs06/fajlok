@@ -12,6 +12,6 @@ Melyik hálózati protokoll felelős a weboldalak biztonságos átviteléért?;H
 Melyik operációs rendszer nyílt forráskódú?;Windows;macOS;Linux;Android;c
 Melyik protokoll használatos a fájlok másolására a hálózaton keresztül?;FTP;HTTP;TCP;IP;a
 A RAM a számítógépben található tárhelyet rövidíti a ROM pedig a meóriát.;Igaz;Hamis;Nem tudom;-;b
-A legtöbb telefon iOS rendszert használ.;Hamis;Igaz;Nem tudom;-;b
+A legtöbb telefon iOS rendszert használ.;Hamis;Igaz;Nem tudom;-;a
 A képen egy UTF kábel látható.;Igaz;Hamis;Nem tudom;-;b
 -;-;-;-;-;-
