@@ -14,4 +14,4 @@ Melyik protokoll használatos a fájlok másolására a hálózaton keresztül?;
 A RAM a számítógépben található tárhelyet rövidíti a ROM pedig a meóriát.;Igaz;Hamis;Nem tudom;-;b
 A legtöbb telefon iOS rendszert használ.;Hamis;Igaz;Nem tudom;-;b
 A képen egy UTF kábel látható.;Igaz;Hamis;Nem tudom;-;b
--;-;-;-;-
+-;-;-;-;-;-
