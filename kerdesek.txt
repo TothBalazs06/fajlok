@@ -1,4 +1,5 @@
 kerdes;Va;Vb;Vc;Vd;Hv
+-;-;-;-;-;-
 Melyik az a fájlformátum amely lehetővé teszi a szöveges dokumentumok formázását és megjelenítését?;PDF;TXT;DOCX;HTML;d
 Melyik volt az első programozási nyelv?;Python;Java;Assembly;C#;c
 Melyik NEM Linux distribúció?;Manjaro;FreeBSD;Linux Mint;Ubuntu;b
