@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPTB_FoxAndRabbits/1.0.0": {
+        "dependencies": {
+          "EntitiesLib": "1.0.0"
+        },
+        "runtime": {
+          "PPTB_FoxAndRabbits.dll": {}
+        }
+      },
+      "EntitiesLib/1.0.0": {
+        "runtime": {
+          "EntitiesLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPTB_FoxAndRabbits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntitiesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

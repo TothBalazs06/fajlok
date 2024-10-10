@@ -1,0 +1,11 @@
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\bin\Debug\net8.0\EntitiesLib.deps.json
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\bin\Debug\net8.0\EntitiesLib.dll
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\bin\Debug\net8.0\EntitiesLib.pdb
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\EntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\EntitiesLib.AssemblyInfoInputs.cache
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\EntitiesLib.AssemblyInfo.cs
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\EntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\EntitiesLib.dll
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\refint\EntitiesLib.dll
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\EntitiesLib.pdb
+C:\Users\balik\Desktop\PPTB_FoxAndRabbits\Entities\obj\Debug\net8.0\ref\EntitiesLib.dll

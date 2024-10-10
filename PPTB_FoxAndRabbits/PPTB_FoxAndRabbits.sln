@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTB_FoxAndRabbits", "PPTB_FoxAndRabbits\PPTB_FoxAndRabbits.csproj", "{6E5D9268-92F1-4D92-A6DB-D2F45A71D657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesLib", "Entities\EntitiesLib.csproj", "{A53744E2-0773-437D-A748-EC1CE0EC8929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5D9268-92F1-4D92-A6DB-D2F45A71D657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5D9268-92F1-4D92-A6DB-D2F45A71D657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5D9268-92F1-4D92-A6DB-D2F45A71D657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5D9268-92F1-4D92-A6DB-D2F45A71D657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53744E2-0773-437D-A748-EC1CE0EC8929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53744E2-0773-437D-A748-EC1CE0EC8929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53744E2-0773-437D-A748-EC1CE0EC8929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53744E2-0773-437D-A748-EC1CE0EC8929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FCADFD-D7BC-455C-B2C0-56C03B436551}
+	EndGlobalSection
+EndGlobal
